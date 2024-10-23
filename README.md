@@ -42,7 +42,7 @@ Besides programming, I also enjoy:
 ## 📫 Get in Touch
 - **Email:** daodoa2003@gmail.com
 - **LinkedIn:** [Hoàng Văn Đạo](https://www.linkedin.com/in/your-profile)
-- **Facebook:** [Hoàng Văn Đạo]([(https://www.facebook.com/hotrodvmxhuytin/)])
+- **Facebook:** [Hoàng Văn Đạo](https://www.facebook.com/hotrodvmxhuytin/)
 - **Portfolio:** [link-to-your-portfolio](https://your-portfolio.com)
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or have any questions!
