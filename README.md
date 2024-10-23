@@ -1,4 +1,3 @@
-#Name
 # Hello! I'm Hoàng Văn Đạo
 I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion for technology and a strong desire to continually learn and grow in my field.
 ## 🛠️ Skills
