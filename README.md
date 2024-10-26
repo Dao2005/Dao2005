@@ -1,32 +1,4 @@
 # Hello! I'm Hoàng Văn Đạo!![superhero-397_128](https://github.com/user-attachments/assets/f0d2edcd-64a7-4cc8-88ad-58d7445e0eae)![crocodile-67_128](https://github.com/user-attachments/assets/341b810e-a691-4069-8eba-79da54c8c156)![fish-7464_128](https://github.com/user-attachments/assets/ef4c4a3d-6222-4208-a45d-2b8f72ac639d)
-// Chặn F12 và các tổ hợp phím phổ biến để mở DevTools
-document.addEventListener("keydown", function(event) {
-    if (event.key === "F12" || 
-        (event.ctrlKey && event.shiftKey && event.key === "I") || 
-        (event.ctrlKey && event.key === "U")) {
-        event.preventDefault();
-        alert("Không thể mở DevTools!");
-    }
-});
-
-// Phát hiện nếu DevTools được mở
-let devtoolsOpen = false;
-const element = new Image();
-Object.defineProperty(element, 'id', {
-    get: function () {
-        devtoolsOpen = true;
-        alert("DevTools đã bị phát hiện. Vui lòng đóng nó để tiếp tục.");
-    }
-});
-
-setInterval(function () {
-    devtoolsOpen = false;
-    console.log(element);
-    if (devtoolsOpen) {
-        window.location.reload();
-    }
-}, 1000);
-
 I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion for technology and a strong desire to continually learn and grow in my field.
 ## 🛠️ Skills
 - **Programming Languages:** 
