@@ -1,4 +1,5 @@
-# Hello! I'm Hoàng Văn Đạo!
+# Hello! I'm Hoàng Văn Đạo! ![Uploading crocodile-67_128.gif…]()
+
 I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion for technology and a strong desire to continually learn and grow in my field.
 ## 🛠️ Skills
 - **Programming Languages:** 
