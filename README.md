@@ -17,6 +17,8 @@ I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion 
 - **Tools and Technologies:**
   - Git
   - Docker
+  - Cybersecurity
+  - Website Security
 ## 🚀 Notable Projects
 ### 1. [Website AI GAME](link-to-your-project-1)
 **Description:** This project aims to develop a web application that connects users and allows them to share their experiences. 
