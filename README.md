@@ -1,4 +1,4 @@
-# Hello! I'm Hoàng Văn Đạo![crocodile-67_128](https://github.com/user-attachments/assets/5b30b203-0157-4378-8c3a-06c3abddaccf)src="[crocodile-67_128]" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+# Hello! I'm Hoàng Văn Đạo![crocodile-67_128](https://github.com/user-attachments/assets/5b30b203-0157-4378-8c3a-06c3abddaccf)
 I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion for technology and a strong desire to continually learn and grow in my field.
 ## 🛠️ Skills
 - **Programming Languages:** 
