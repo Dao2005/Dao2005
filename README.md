@@ -1,4 +1,10 @@
-# Hello! I'm Hoàng Văn Đạo! <img class="avatar-img \xc6\x4a\x09\x9d\x07\xcf\x2b\xd6\x4f\x22\x9e\x4c\x89\x8e\x34\x24\x09\x66\x08\x83" src="https://i.imgur.com/FD38wAC.jpeg?v=445" alt="Hoàng Văn Đạo">
+# Hello! I'm Hoàng Văn Đạo!    .-._    
+     |   |    
+     |   |   
+    _|   |_
+   |       |
+    \     /
+     `-.-'
 I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion for technology and a strong desire to continually learn and grow in my field.
 ## 🛠️ Skills
 - **Programming Languages:** 
