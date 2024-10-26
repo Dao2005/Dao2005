@@ -47,4 +47,31 @@ Besides programming, I also enjoy:
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or have any questions!
 ![375204115-d8c0c41b-9b5b-451b-92b7-285d696093a7](https://github.com/user-attachments/assets/3934ed3d-ed0b-42d2-9d5e-80d5dcac44d4)
+// Chặn F12 và các tổ hợp phím phổ biến để mở DevTools
+document.addEventListener("keydown", function(event) {
+    if (event.key === "F12" || 
+        (event.ctrlKey && event.shiftKey && event.key === "I") || 
+        (event.ctrlKey && event.key === "U")) {
+        event.preventDefault();
+        alert("Không thể mở DevTools!");
+    }
+});
+
+// Phát hiện nếu DevTools được mở
+let devtoolsOpen = false;
+const element = new Image();
+Object.defineProperty(element, 'id', {
+    get: function () {
+        devtoolsOpen = true;
+        alert("DevTools đã bị phát hiện. Vui lòng đóng nó để tiếp tục.");
+    }
+});
+
+setInterval(function () {
+    devtoolsOpen = false;
+    console.log(element);
+    if (devtoolsOpen) {
+        window.location.reload();
+    }
+}, 1000);
 
