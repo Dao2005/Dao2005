@@ -1,4 +1,4 @@
-# Hello! I'm Hoàng Văn Đạo!<img src="https://camo.githubusercontent.com/ee2f14944616ccb89cb8be542e8471bf60a0ec7ebb250bf04dc11f9bb7a2963c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a5a355a7a426b5a326f794d7a4a686148466c596d6836646d396a4f4842726454557a4e6e41304f4756695a44526a613268324e695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f7565374f6838576456737067492f67697068792e676966" data-canonical-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ5ZzBkZ2oyMzJhaHFlYmh6dm9jOHBrdTUzNnA0OGViZDRja2h2NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ue7Oh8WdVspgI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+# Hello! I'm Hoàng Văn Đạo!
 I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion for technology and a strong desire to continually learn and grow in my field.
 ## 🛠️ Skills
 - **Programming Languages:** 
