@@ -42,7 +42,7 @@ Besides programming, I also enjoy:
 - **Sports:** Soccer and badminton
 - **Exploring:** I love traveling and learning about new cultures.
 ## 📫 Get in Touch
-<img src="https://img.upanh.tv/2025/01/29/474449163_1293764701882432_5801940010733136708_n.jpg" alt="474449163_1293764701882432_5801940010733136708_n.jpg" border="0">
+src="https://img.upanh.tv/2025/01/29/474449163_1293764701882432_5801940010733136708_n.jpg" alt="474449163_1293764701882432_5801940010733136708_n.jpg" border="0">
 - **Email:** daodoa2003@gmail.com
 - **LinkedIn:** [Hoàng Văn Đạo](https://www.linkedin.com/in/your-profile)
 - **Facebook:** [Hoàng Văn Đạo](https://www.facebook.com/hotrodvmxhuytin/)
