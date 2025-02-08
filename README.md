@@ -49,4 +49,3 @@ Besides programming, I also enjoy:
 - **Portfolio:** [link-to-your-portfolio](https://your-portfolio.com)
 
 Thank you for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or have any questions!
-![375204115-d8c0c41b-9b5b-451b-92b7-285d696093a7](https://github.com/user-attachments/assets/3934ed3d-ed0b-42d2-9d5e-80d5dcac44d4)
