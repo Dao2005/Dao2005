@@ -31,6 +31,7 @@ Tôi là một **Lập trình viên phần mềm** đam mê công nghệ, với 
 - **LinkedIn:** [Hoàng Văn Đạo](https://www.linkedin.com/in/your-profile)
 - **Facebook:** [Hoàng Văn Đạo](https://www.facebook.com/hotrodvmxhuytin)
 - **Website:** [Tudongthanhtoan.id.vn](https://Tudongthanhtoan.id.vn)
+![image](https://github.com/user-attachments/assets/2d2feedf-0f4a-4d46-8daf-60f666e9c16f)
 
 
 ## 🌱 Hành trình học hỏi
