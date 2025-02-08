@@ -29,7 +29,7 @@ Tôi là một **Lập trình viên phần mềm** đam mê công nghệ, với 
 
 ## 🌱 Hành trình học hỏi
 Tôi bắt đầu hành trình lập trình của mình từ **năm 2020** và đã tham gia vào nhiều khóa học và dự án để nâng cao kỹ năng.
-	https://private-user-images.githubusercontent.com/…zdCJ9.sa-UvU5hNigeULYQOZLdXB-0b-WgMIaFjxkTLbPmqsk
+<img src="https://private-user-images.githubusercontent.com/…zdCJ9.sa-UvU5hNigeULYQOZLdXB-0b-WgMIaFjxkTLbPmqsk" alt="Image Description" />
 
 ---
 
