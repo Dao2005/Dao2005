@@ -25,7 +25,13 @@ Tôi là một **Lập trình viên phần mềm** đam mê công nghệ, với 
 ### 1. [Website AI GAME](link-to-your-project-1)
 **Mô tả:** Dự án này phát triển một ứng dụng web kết nối người dùng và cho phép họ chia sẻ trải nghiệm.
 - **Công nghệ sử dụng:** Python, Java, HTML
-- **Liên kết:** [GitHub Repository](link-to-your-github-repo)
+## 📫 Liên hệ với tôi
+
+- **Email:** [daodoa2003@gmail.com](mailto:daodoa2003@gmail.com)
+- **LinkedIn:** [Hoàng Văn Đạo](https://www.linkedin.com/in/your-profile)
+- **Facebook:** [Hoàng Văn Đạo](https://www.facebook.com/hotrodvmxhuytin)
+- **Website:** [Tudongthanhtoan.id.vn](https://Tudongthanhtoan.id.vn)
+
 
 ## 🌱 Hành trình học hỏi
 Tôi bắt đầu hành trình lập trình của mình từ **năm 2020** và đã tham gia vào nhiều khóa học và dự án để nâng cao kỹ năng.
@@ -67,7 +73,10 @@ I am a **Software Developer** with a passion for technology, aiming to create in
 ### 1. [Website AI GAME](link-to-your-project-1)
 **Description:** This project aims to develop a web application that connects users and allows them to share their experiences.
 - **Technologies Used:** Python, Java, HTML
-- **Link:** [GitHub Repository](link-to-your-github-repo)
+- **Email:** [daodoa2003@gmail.com](mailto:daodoa2003@gmail.com)
+- **LinkedIn:** [Hoàng Văn Đạo](https://www.linkedin.com/in/your-profile)
+- **Facebook:** [Hoàng Văn Đạo](https://www.facebook.com/hotrodvmxhuytin)
+- **Website:** [Tudongthanhtoan.id.vn](https://Tudongthanhtoan.id.vn)
 
 ## 🌱 Learning Journey
 I started my programming journey in **2020** and have participated in many courses and projects to enhance my skills.
