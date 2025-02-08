@@ -2,6 +2,7 @@
 # Chào bạn, tôi là Hoàng Văn Đạo!  
 Tôi là một **Lập trình viên phần mềm** đam mê công nghệ, với mục tiêu xây dựng những sản phẩm sáng tạo và hữu ích. Tôi làm việc tại **Hà Nội, Việt Nam** và luôn tìm kiếm cơ hội để học hỏi và phát triển trong lĩnh vực **Full Stack Develop
 ## 🛠️ Kỹ năng
+![](https://github-trophies.vercel.app/?username=Glasspham&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 - **Ngôn ngữ lập trình:** 
   - JavaScript
   - Python
