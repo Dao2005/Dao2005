@@ -1,4 +1,4 @@
-![github-snake](440326571_1118198726105698_8542573274366487066_n](https://github.com/user-attachments/assets/3e05e040-ba3f-465a-bde9-b43b33112128)
+![github-snake](https://github.com/user-attachments/assets/3e05e040-ba3f-465a-bde9-b43b33112128)
 
 7b5ce738-ae28-43bb-9834-6da9c387320a)
 # Chào bạn, tôi là Hoàng Văn Đạo!  
