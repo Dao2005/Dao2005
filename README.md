@@ -36,6 +36,7 @@ Tôi là một **Lập trình viên phần mềm** đam mê công nghệ, với 
 ## 🌱 Hành trình học hỏi
 Tôi bắt đầu hành trình lập trình của mình từ **năm 2020** và đã tham gia vào nhiều khóa học và dự án để nâng cao kỹ năng.
 <img src="https://private-user-images.githubusercontent.com/142284485/375204115-d8c0c41b-9b5b-451b-92b7-285d696093a7.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkwMDcxNTIsIm5iZiI6MTczOTAwNjg1MiwicGF0aCI6Ii8xNDIyODQ0ODUvMzc1MjA0MTE1LWQ4YzBjNDFiLTliNWItNDUxYi05MmI3LTI4NWQ2OTYwOTNhNy5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwOFQwOTI3MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMzEwOWVlN2M4OTA5MWIwODE3MGQxY2RhMGJlOWE0ZjcxZGQ5YTRkODYwODUwYjMyYmFjMmFmOTQ0ZDk2NmQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sa-UvU5hNigeULYQOZLdXB-0b-WgMIaFjxkTLbPmqsk" alt="3" style="max-width: 100%;">
+<img width="1000" src="/Glasspham/Glasspham/raw/main/assets/github-snake.svg" alt="rắn" style="max-width: 100%;">
 ---
 
 ## 🌍 **Switch to English Version**
