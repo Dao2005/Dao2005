@@ -1,12 +1,55 @@
-# Hello! I'm Hoàng Văn Đạo!![superhero-397_128](https://github.com/user-attachments/assets/f0d2edcd-64a7-4cc8-88ad-58d7445e0eae)
-I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion for technology and a strong desire to continually learn and grow in my field.
+# Chào bạn, tôi là Hoàng Văn Đạo!  
+Tôi là một **Lập trình viên phần mềm** đam mê công nghệ, với mục tiêu xây dựng những sản phẩm sáng tạo và hữu ích. Tôi làm việc tại **Hà Nội, Việt Nam** và luôn tìm kiếm cơ hội để học hỏi và phát triển trong lĩnh vực **Full Stack Development**.
+
+## 🛠️ Kỹ năng
+- **Ngôn ngữ lập trình:** 
+  - JavaScript
+  - Python
+  - Java
+  - HTML
+  - C++
+- **Frameworks và Thư viện:**
+  - React
+  - Django
+  - Node.js
+- **Cơ sở dữ liệu:**
+  - MySQL
+  - MongoDB
+- **Công cụ và công nghệ:**
+  - Git
+  - Docker
+  - An ninh mạng
+  - Bảo mật website
+
+## 🚀 Dự án nổi bật
+### 1. [Website AI GAME](link-to-your-project-1)
+**Mô tả:** Dự án này phát triển một ứng dụng web kết nối người dùng và cho phép họ chia sẻ trải nghiệm.
+- **Công nghệ sử dụng:** Python, Java, HTML
+- **Liên kết:** [GitHub Repository](link-to-your-github-repo)
+
+## 🌱 Hành trình học hỏi
+Tôi bắt đầu hành trình lập trình của mình từ **năm 2020** và đã tham gia vào nhiều khóa học và dự án để nâng cao kỹ năng.
+
+---
+
+## 🌍 **Switch to English Version**
+
+[Click here to read in English](#english-version)
+
+---
+
+## **English Version:**
+
+# Hello! I'm Hoàng Văn Đạo!  
+I am a **Software Developer** with a passion for technology, aiming to create innovative and useful products. I am based in **Hà Nội, Vietnam**, and I’m constantly looking for opportunities to learn and grow in the field of **Full Stack Development**.
+
 ## 🛠️ Skills
 - **Programming Languages:** 
   - JavaScript
   - Python
   - Java
-  -Html
-  -C++
+  - HTML
+  - C++
 - **Frameworks and Libraries:**
   - React
   - Django
@@ -19,32 +62,18 @@ I am a **Software Developer** based in **Hà Nội, Vietnam**. I have a passion 
   - Docker
   - Cybersecurity
   - Website Security
+
 ## 🚀 Notable Projects
 ### 1. [Website AI GAME](link-to-your-project-1)
-**Description:** This project aims to develop a web application that connects users and allows them to share their experiences. 
-- **Technologies Used:** Python,java,html
+**Description:** This project aims to develop a web application that connects users and allows them to share their experiences.
+- **Technologies Used:** Python, Java, HTML
 - **Link:** [GitHub Repository](link-to-your-github-repo)
-### 2. [Not finished yet](link-to-your-project-2)
-**Description:** A machine learning project to predict housing prices using various algorithms.
-- **Technologies Used:** Python,java,html
-- **Link:** [GitHub Repository](link-to-your-github-repo)
-### 3. [Not finished yet](link-to-your-project-3)
-**Description:** A mobile application for managing personal finances.
-- **Technologies Used:** Python,java,html
-- **Link:** [GitHub Repository](link-to-your-github-repo)
-## 🌱 Learning Journey
-I started my programming journey in **2020** and have engaged in numerous courses and projects to enhance my skills. Some of the notable courses include:
-- **Introduction to Computer Science** from Coursera
-- **Full Stack Web Development** from Udemy
-## 🌍 Hobbies
-Besides programming, I also enjoy:
-- **Reading:** Tech books and novels
-- **Sports:** Soccer and badminton
-- **Exploring:** I love traveling and learning about new cultures.
-## 📫 Get in Touch
-- **Email:** daodoa2003@gmail.com
-- **LinkedIn:** [Hoàng Văn Đạo](https://www.linkedin.com/in/your-profile)
-- **Facebook:** [Hoàng Văn Đạo](https://www.facebook.com/hotrodvmxhuytin/)
-- **Portfolio:** [link-to-your-portfolio](https://your-portfolio.com)
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or have any questions!
+## 🌱 Learning Journey
+I started my programming journey in **2020** and have participated in many courses and projects to enhance my skills.
+
+---
+
+## 🌍 **Quay lại Tiếng Việt**
+
+[Click here to read in Vietnamese](#chào-bạn-tôi-là-hoàng-văn-đạo)
