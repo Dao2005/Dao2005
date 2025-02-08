@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/[username]/[repository]/[branch]/[path-to-image]
+![440326571_1118198726105698_8542573274366487066_n](https://github.com/user-attachments/assets/d6b400c1-6ccd-4419-b69f-c9cb99d280d3)
+
 # Chào bạn, tôi là Hoàng Văn Đạo!  
 Tôi là một **Lập trình viên phần mềm** đam mê công nghệ, với mục tiêu xây dựng những sản phẩm sáng tạo và hữu ích. Tôi làm việc tại **Hà Nội, Việt Nam** và luôn tìm kiếm cơ hội để học hỏi và phát triển trong lĩnh vực **Full Stack Develop
 ## 🛠️ Kỹ năng
